@@ -6,7 +6,7 @@ Note: No Aveni Datasets could be published in this public repo, due to privacy r
 # Experiment Code
 
 All experiments cary out binary vulnerability classificaiton by queryingh GPT-4 through OpenAI API. API key has been removed for publishing here as it is owned by Aveni.
-All experiments were carried out in jupyter notebooks to 
+All experiments were carried out in jupyter notebooks using Python.
 
 * Experiment 1 - Zero-shot Learning Baseline
 * Experiment 4 - Few-Shot Learning Baseline
